@@ -934,4 +934,3 @@ Fully patched operating system and applications.
 Anti-virus software.
 
 Strong passwords.
-I, NGNOTUE NOGUEM, understand that submitting work that isn’t my own may result in permanent failure of this course or deactivation of my Coursera account. 
